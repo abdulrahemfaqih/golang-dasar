@@ -8,6 +8,7 @@ import (
 func main() {
 	names := []string{"faqih", "lisa"}
 	printMessage("halo", names)
+
 }
 
 func printMessage(message string, arr []string) {
